@@ -22,12 +22,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="hosting" />
+        <module name="security-spr" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="hosting" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
 
